@@ -4,4 +4,8 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1701;1702;1591;1573</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Canterbury.Base\source\R5T.Canterbury.Base\R5T.Canterbury.Base.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Copenhagen.Base\source\R5T.Copenhagen.Base\R5T.Copenhagen.Base.csproj" />
+  </ItemGroup>
 </Project>
