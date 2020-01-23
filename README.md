@@ -1,0 +1,2 @@
+# R5T.Copenhagen.Default
+A default service implementations library for the Copenhagen project.
