@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Dependencies", "_Dependenc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Canterbury.Base", "..\..\R5T.Canterbury.Base\source\R5T.Canterbury.Base\R5T.Canterbury.Base.csproj", "{E5C19199-78F3-49C1-83D3-5253B0645241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{6184B4B3-E7F5-49AA-8692-E33A6D692109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,18 @@ Global
 		{E5C19199-78F3-49C1-83D3-5253B0645241}.Release|x64.Build.0 = Release|Any CPU
 		{E5C19199-78F3-49C1-83D3-5253B0645241}.Release|x86.ActiveCfg = Release|Any CPU
 		{E5C19199-78F3-49C1-83D3-5253B0645241}.Release|x86.Build.0 = Release|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Debug|x64.Build.0 = Debug|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Debug|x86.Build.0 = Debug|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Release|x64.ActiveCfg = Release|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Release|x64.Build.0 = Release|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Release|x86.ActiveCfg = Release|Any CPU
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +106,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FBD0E1A7-3F60-4FEE-886C-F982EF8E8E0D} = {2E17C406-651E-487A-98C2-4497BA029ACA}
 		{E5C19199-78F3-49C1-83D3-5253B0645241} = {2E17C406-651E-487A-98C2-4497BA029ACA}
+		{6184B4B3-E7F5-49AA-8692-E33A6D692109} = {2E17C406-651E-487A-98C2-4497BA029ACA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {44C76E2D-AF2A-4BFA-9F54-BD71AF9A18FA}

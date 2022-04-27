@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 
-using R5T.Canterbury;
+using R5T.Canterbury;using R5T.T0064;
 
 
 namespace R5T.Copenhagen.Default
-{
-    public class CDrivePathProvider : ICDrivePathProvider
+{[ServiceImplementationMarker]
+    public class CDrivePathProvider : ICDrivePathProvider,IServiceImplementation
     {
         private ICDriveNameConvention CDriveNameConvention { get; }
 
